@@ -7,3 +7,4 @@ line added firstly by dev branch
 same place line added in master
 new line add to check conflict
 new line added
+same line changes from github
