@@ -1,1 +1,5 @@
 file added to see git flow control
+
+
+lines added afer fork and clone.
+lines added after forn and clone
